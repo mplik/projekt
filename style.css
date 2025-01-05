@@ -13,12 +13,12 @@ header {
 }
 
 .logo {
-    width: 50%; /*zmiana szerokości logo*/
-    max-width: 50px;
+    width: 100%; /*zmiana szerokości logo*/
+    max-width: 200px;
     height: auto; /*zmiana wysokości logo*/
     display: block; /*ustawienie logo jako blok*/
     margin: 0 auto; /*ustawienie logo na środku*/
-    border-radius: 50px; /*zaokrąglenie logo*/
+    border-radius: 50%; /*zaokrąglenie logo*/
 }
 
 header nav ul {
@@ -58,6 +58,12 @@ footer {
 form {
     display: flex;
     flex-direction: column;
+    max-width: 600px; /*zmiana szerokości formularza*/
+    margin: 0 auto; /*ustawienie formularza na środku*/
+    padding: 20px; /*dodanie paddingu do formularza*/
+    background: #fff; /*zmiana koloru tła formularza*/
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /*dodanie cienia do formularza*/
+    border-radius: 10px; /*zaokrąglenie formularza*/
 }
 
 label {
@@ -83,3 +89,11 @@ button {
 button:hover {
     background: #4cae4c;
 }
+
+/*Styl responsywny*/
+@media (max-width: 768px) {
+    header {
+        padding: 20px 0;
+    }
+
+  
