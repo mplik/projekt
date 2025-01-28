@@ -58,7 +58,7 @@ footer {
 form {
     display: flex;
     flex-direction: column;
-    max-width: 600px; /*zmiana szerokości formularza*/
+    max-width: 400px; /*zmiana szerokości formularza*/
     margin: 0 auto; /*ustawienie formularza na środku*/
     padding: 20px; /*dodanie paddingu do formularza*/
     background: #fff; /*zmiana koloru tła formularza*/
@@ -95,5 +95,4 @@ button:hover {
     header {
         padding: 20px 0;
     }
-
-  
+}
