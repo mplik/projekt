@@ -45,6 +45,24 @@ h2 {
     color: #333;
 }
 
+#about, #contact {
+    background: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px; /*zaokrąglenie sekcji*/
+}
+
+#offer {
+    background: #e2e2e2;
+    padding: 20px;
+    border-radius: 10px; /*zaokrąglenie sekcji*/
+}
+
+#contact {
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px; /*zaokrąglenie sekcji*/
+}
+
 footer {
     text-align: center;
     padding: 10px 0;
