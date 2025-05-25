@@ -1,3 +1,4 @@
+<!-- GitAds-Verify: Z9NOH93QYPXYLNWWBUVCSABU14S29LHU -->
 # Projekt
 
 Elastyczna stronka - strona wizytówka.
