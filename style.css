@@ -114,3 +114,8 @@ button:hover {
         padding: 20px 0;
     }
 }
+
+.paypal-button {
+    width: 150px; /*zmiana szerokości przycisku PayPal*/
+    height: auto; /*zmiana wysokości przycisku PayPal*/
+}
