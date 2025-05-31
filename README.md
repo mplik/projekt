@@ -21,6 +21,15 @@ Otwórz plik `index.html` w przeglądarce, aby zobaczyć stronę wizytówkę.
 - CSS: 44.3%
 - JavaScript: 8.9%
 
+## Wesprzyj projekt
+
+Jeśli podoba Ci się ten projekt i chciałbyś nas wesprzeć, możesz przekazać darowiznę za pomocą PayPal:
+
+[![Darowizna PayPal][def]](https://www.paypal.com/donate?hosted_button_id=9MYZA8H98LSM4)
+
 ## Licencja
 
 Ten projekt jest dostępny na licencji MIT.
+
+
+[def]: https://www.paypalobjects.com/pl_PL/PL/i/btn/btn_donate_SM.gif
