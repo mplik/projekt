@@ -5,6 +5,13 @@ Elastyczna stronka - strona wizytówka.
 
 ## Opis
 
+---
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=mplik/projekt@github)](https://gitads.dev/v1/ad-track?source=mplik/projekt@github)
+
+---
+
 Projekt wizytówka - strona wizytówka.
 
 ## Instalacja
